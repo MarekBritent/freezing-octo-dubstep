@@ -1,7 +1,12 @@
 def myApp 
-	puts "Hello"
+	alaMaKota
+	aKotMaAle
 end
 
-def aAlaMaKota
+def alaMaKota
+	puts "Ala ma kota #{a}"
+end
+
+def aKotMaAle
 	puts "A kot ma ale"
 end
