@@ -2,6 +2,8 @@ def myApp
 	alaMaKota
 	aKotMaAle
 end
+dupa
+dupa
 
 def alaMaKotałke
 end
